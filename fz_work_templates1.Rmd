@@ -1,0 +1,46 @@
+---
+title: "Quick Guide Citations"
+author: "author: Frank Ziegengeist"
+output: 
+  html_document: default
+  pdf_document: default 
+---
+
+```{r setup, include=FALSE}
+#define knitr options
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(warning = TRUE)
+knitr::opts_chunk$set(message = TRUE)
+
+# INSTALL AND LOAD PACKAGES ################################
+
+# Install pacman ("package manager") if needed
+if (!require("pacman")) install.packages("pacman")
+
+# pacman must already be installed; then load contributed
+# packages (including pacman) with pacman
+pacman::p_load(pacman, fivethirtyeight, tidyverse, knitr, kableExtra, ggthemes, rticles)
+# below describe all needed packages to be installed and load
+# pacman: for loading/unloading packages
+# fivethirtyeight 
+# tidyverse
+# knitre
+# kableExtra
+# ggthemes
+# rticles
+
+# load the installed R packages
+library(pacman)
+library(fivethirtyeight)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(ggthemes)
+library(rticles)
+```
+
+alle Pakete sind installiert und geladen
+
+
+
+
