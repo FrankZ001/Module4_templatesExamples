@@ -1,5 +1,5 @@
 ---
-title: Title of submission to PLOS journal
+title: Title of submission to PLOS journal (kleine Änderung)
 author:
   - name: Alice Anonymous
     email: alice@example.com
