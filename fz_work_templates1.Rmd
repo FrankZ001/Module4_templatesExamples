@@ -1,9 +1,9 @@
 ---
-title: "Quick Guide Citations mit einer dritten (zweiten) Änderung"
+title: "Quick Guide Citations mit einer vierten (dritten) (zweiten) Änderung"
 author: "author: Frank Ziegengeist"
 output: 
   html_document: default
-  pdf_document: default 
+  pdf_document: default  
 ---
 
 ```{r setup, include=FALSE}
