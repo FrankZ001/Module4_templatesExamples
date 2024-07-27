@@ -1,5 +1,5 @@
 ---
-title: "Quick Guide Citations mit einer zweiten Änderung"
+title: "Quick Guide Citations mit einer dritten (zweiten) Änderung"
 author: "author: Frank Ziegengeist"
 output: 
   html_document: default
